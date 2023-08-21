@@ -12,7 +12,11 @@
         "nodejs",
         "js"
     ],
-    "author": "bencubin",
+    "author": {
+		"email": "s.kovardaev@gmail.com",
+		"name": "Sam Kovardaev",
+		"url": "https://github.com/kvrdv"
+	},
     "license": "ISC",
     "dependencies": {
         "@handlebars/allow-prototype-access": "^1.0.5",
